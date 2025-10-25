@@ -13,14 +13,14 @@ A robust Node.js API that converts CSV files to JSON format and stores them in P
 
 ## 📋 Requirements Met
 
-✅ Custom CSV parser without external libraries  
-✅ Handles complex properties with dot notation  
-✅ Validates mandatory fields: `name.firstName`, `name.lastName`, `age`  
-✅ PostgreSQL with exact table structure  
-✅ Age distribution report printed to console  
-✅ Handles 50,000+ records efficiently  
-✅ RESTful API endpoints  
-✅ Production quality code  
+- ✅ Custom CSV parser without external libraries  
+- ✅ Handles complex properties with dot notation  
+- ✅ Validates mandatory fields: `name.firstName`, `name.lastName`, `age`  
+- ✅ PostgreSQL with exact table structure  
+- ✅ Age distribution report printed to console  
+- ✅ Handles 50,000+ records efficiently  
+- ✅ RESTful API endpoints  
+- ✅ Production quality code  
 
 ## 🛠️ Installation
 
@@ -323,16 +323,26 @@ MIT License - feel free to use this project for learning and development purpose
 
 ---
 
-## Output
-<img width="586" height="395" alt="image" src="https://github.com/user-attachments/assets/c71a70ca-8c0b-48dc-9326-e9b732d83c07" />
-<img width="570" height="137" alt="image" src="https://github.com/user-attachments/assets/2a42ced2-6d49-446c-bdc7-cc13b1c07b04" />
-<img width="596" height="560" alt="image" src="https://github.com/user-attachments/assets/185c069a-6d94-41a7-a18a-f87e3271a144" />
-<img width="607" height="117" alt="image" src="https://github.com/user-attachments/assets/c72abb06-f8ce-4d26-a0d1-51ab3dd2dd66" />
-<img width="1751" height="607" alt="image" src="https://github.com/user-attachments/assets/6bfa0556-37d8-4d3a-9616-214727bdab9e" />
-<img width="1811" height="100" alt="image" src="https://github.com/user-attachments/assets/16b7b230-f84f-4bcd-9d54-d27fc5ff6aa6" />
+## 📸 Application Output
 
+### Server Startup
+![Server Startup](https://github.com/user-attachments/assets/c71a70ca-8c0b-48dc-9326-e9b732d83c07)
 
+### CSV Processing
+![CSV Processing](https://github.com/user-attachments/assets/2a42ced2-6d49-446c-bdc7-cc13b1c07b04)
 
+### Age Distribution Report
+![Age Distribution Report](https://github.com/user-attachments/assets/185c069a-6d94-41a7-a18a-f87e3271a144)
 
+### API Response
+![API Response](https://github.com/user-attachments/assets/c72abb06-f8ce-4d26-a0d1-51ab3dd2dd66)
 
+### Database Records
+![Database Records](https://github.com/user-attachments/assets/6bfa0556-37d8-4d3a-9616-214727bdab9e)
 
+### Health Check
+![Health Check](https://github.com/user-attachments/assets/16b7b230-f84f-4bcd-9d54-d27fc5ff6aa6)
+
+---
+
+**Built with ❤️ using Node.js, Express, and PostgreSQL**
