@@ -338,11 +338,12 @@ MIT License - feel free to use this project for learning and development purpose
 ![API Response](https://github.com/user-attachments/assets/c72abb06-f8ce-4d26-a0d1-51ab3dd2dd66)
 
 ### Database Records
-![Database Records](https://github.com/user-attachments/assets/6bfa0556-37d8-4d3a-9616-214727bdab9e)
+![Database Records](https://github.com/user-attachments/assets/9a6b5472-7484-456f-8e7c-73f0a7046123)
+
+
 
 ### Health Check
 ![Health Check](https://github.com/user-attachments/assets/16b7b230-f84f-4bcd-9d54-d27fc5ff6aa6)
 
 ---
 
-**Built with ❤️ using Node.js, Express, and PostgreSQL**
