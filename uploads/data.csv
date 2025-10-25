@@ -1,0 +1,6 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender,education.degree
+John,Doe,25,123 Main St,Apt 4B,New York,NY,male,Bachelor
+Jane,Smith,32,456 Oak Ave,Suite 100,Los Angeles,CA,female,Master
+Bob,Johnson,45,789 Pine Rd,,Chicago,IL,male,PhD
+Alice,Brown,19,321 Elm St,Unit 5,Houston,TX,female,Bachelor
+Mike,Wilson,67,654 Maple Dr,Floor 3,Miami,FL,male,Master
